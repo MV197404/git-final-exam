@@ -1,0 +1,5 @@
+Tính năng mới: hệ thống chấm điểm tự động.
+Mục tiêu: giảm thao tác thủ công.
+Người phát triển: <Tên bạn>.
+Công nghệ: Python + GitHub API.
+Thời gian hoàn thành: 3 ngày.
