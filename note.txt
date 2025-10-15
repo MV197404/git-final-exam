@@ -1,3 +1,5 @@
 - Git giúp quản lý phiên bản dễ dàng.
 - Hỗ trợ teamwork hiệu quả.
 - Dễ dàng phục hồi thay đổi.
+- Học Git rất thú vị.
+- Tôi muốn học thêm về GitHub Actions.
