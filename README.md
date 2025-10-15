@@ -6,3 +6,4 @@
 ## qua ai
 Học cách quản lý phiên bản với Git và GitHub.
 Thực hành commit, branch, merge, revert, stash...
+- Họ tên: <Minh Vy>
