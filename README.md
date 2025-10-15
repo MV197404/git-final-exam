@@ -1,5 +1,5 @@
 # Git Final Exam
-- Họ tên: <Tên bạn>
+- Họ tên: <Minh Vy>
 - Họ tên: <Minh Vy>
 - MSSV: <MSSv: 220829>
 - Ngày làm bài: 15/10/2025
